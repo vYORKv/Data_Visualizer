@@ -26,49 +26,41 @@ color = Color(0.113725, 0.133333, 0.160784, 1)
 [node name="Sprite2D" type="Sprite2D" parent="Lines"]
 position = Vector2(384, 160)
 rotation = -0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D2" type="Sprite2D" parent="Lines"]
 position = Vector2(384, 416)
 rotation = -0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D3" type="Sprite2D" parent="Lines"]
 position = Vector2(392, 224)
 rotation = 0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D4" type="Sprite2D" parent="Lines"]
 position = Vector2(392, 480)
 rotation = 0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D5" type="Sprite2D" parent="Lines"]
 position = Vector2(640, 480)
 rotation = -0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D6" type="Sprite2D" parent="Lines"]
 position = Vector2(640, 224)
 rotation = -0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D7" type="Sprite2D" parent="Lines"]
 position = Vector2(640, 160)
 rotation = 0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D8" type="Sprite2D" parent="Lines"]
 position = Vector2(640, 416)
 rotation = 0.261799
-scale = Vector2(1, 1)
 texture = ExtResource("2_ctwcn")
 
 [node name="Sprite2D9" type="Sprite2D" parent="Lines"]

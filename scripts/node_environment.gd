@@ -85,6 +85,7 @@ func _on_button_pressed() -> void:
 			data.target = OrangeNode
 		elif target_i == 2:
 			data.target = PurpleNode
+		green_count += 1
 	elif spawn_i == 2:
 		data.position = RedNode.global_position
 		data.SetColor(red)
@@ -92,6 +93,7 @@ func _on_button_pressed() -> void:
 			data.target = YellowNode
 		elif target_i == 2:
 			data.target = BlueNode
+		red_count += 1
 	data.travel_permitted = true
 
 func _on_orange_node_body_entered(body: Node2D) -> void:
