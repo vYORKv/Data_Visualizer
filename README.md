@@ -15,6 +15,8 @@ int/float/bool variables of similar name).
 - When instantiating a child scene follow this line of loading it into parent scene:
   
 	var child_scene: Object = CHILD_SCENE.instantiate()
+
 	add_child(child_scene)
+
 	child_scene.position = PositionNode.global_position
-	* Follow with any code setting values to child_scene *
+	** Follow with any code setting values to child_scene **
