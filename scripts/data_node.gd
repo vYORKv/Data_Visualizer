@@ -3,7 +3,7 @@ extends CharacterBody2D
 @onready var Circle: ColorRect = $ColorRect
 
 const ACCELERATION: int = 200
-var speed: int = 300
+var speed: int = 300 
 
 var color_value: Color
 var target: Object
