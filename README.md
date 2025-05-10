@@ -19,4 +19,5 @@ int/float/bool variables of similar name).
 	add_child(child_scene)
 
 	child_scene.position = PositionNode.global_position
+
 	** Follow with any code setting values to child_scene **
