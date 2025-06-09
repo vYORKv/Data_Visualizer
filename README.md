@@ -1,6 +1,7 @@
 # Data Visualizer Project
- 
 Made with Godot version v4.4.stable.official [4c311cbee]
+
+This is a simple prototype of a data visualization application made for a friend. Currently, all it does is randomly spawn a circle of a starting color, then moves that circle down a line of nodes to combine their colors and output these combinations to a final color combination at the end of the chain. There is a reason for this odd movement and combination of colors traveling randomly down a chain of nodes, but that reasoning is beyond the scope of this repository.
 
 ## Personal Style Guide
 - All self-defined functions use PascalCasing.
